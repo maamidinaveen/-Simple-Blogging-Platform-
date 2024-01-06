@@ -62,5 +62,12 @@ iii) nodemon - it will automatically restarts the server whenever code changes
 
 
 Now creating frontend using React Js 
-create a file (ReactProject), now change the directory (cd ReactProject) , 
+create a file (ReactProject), now change the directory (cd ReactProject) , (create-react-app myapp), (cd myapp) 
+now create a folder to maintain the components, create each component for specific action 
+dependencies - 'react-router-dom' - handles routing in react application (npm install react-router-dom) 
+open the terminal and start react server by using npm start command 
+it will redirect to the web browser 
+
+
+
                                     
